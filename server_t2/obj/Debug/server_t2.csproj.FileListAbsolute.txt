@@ -1,0 +1,7 @@
+C:\Users\hanyon\source\repos\server_t2\server_t2\bin\Debug\server_t2.exe.config
+C:\Users\hanyon\source\repos\server_t2\server_t2\bin\Debug\server_t2.exe
+C:\Users\hanyon\source\repos\server_t2\server_t2\bin\Debug\server_t2.pdb
+C:\Users\hanyon\source\repos\server_t2\server_t2\obj\Debug\server_t2.csproj.AssemblyReference.cache
+C:\Users\hanyon\source\repos\server_t2\server_t2\obj\Debug\server_t2.csproj.CoreCompileInputs.cache
+C:\Users\hanyon\source\repos\server_t2\server_t2\obj\Debug\server_t2.exe
+C:\Users\hanyon\source\repos\server_t2\server_t2\obj\Debug\server_t2.pdb
